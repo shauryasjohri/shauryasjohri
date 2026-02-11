@@ -1,51 +1,99 @@
-# Hello, I am Shaurya S. Johri
+# Hi, I am Shaurya S. Johri
 
-DSA focused problem solver with a strong command of Data Structures and Algorithms, currently working as a Full Stack Web Developer.  
-Undergraduate student at **Delhi Technological University (DTU)** with a strong interest in building scalable systems, clean architecture, and efficient solutions.
+I enjoy solving problems using Data Structures and Algorithms and build full stack web applications with a focus on scalability and clean design.
+I am an undergraduate student at **Delhi Technological University (DTU)**, interested in system design, efficient architecture, and writing high quality, maintainable code.
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- DSA focused problem solver with a strong command of Data Structures and Algorithms.  
-- Full Stack Web Developer experienced in building scalable, end to end web applications.  
-- Undergraduate student at **Delhi Technological University (DTU)**.  
-- Passionate about clean code, system design, and performance oriented solutions.  
-- Looking to collaborate on open source and impactful product projects.  
-- Currently focused on shipping features, improving reliability, writing clean tests, and leveling up development tooling.  
-- Off work, I enjoy gaming and watching anime.  
-- 📫 Reach me at **johri2004.sj@gmail.com**
+* Strong foundation in Data Structures and Algorithms with a problem solving mindset
+* Full stack web developer skilled in building scalable and user focused applications
+* Undergraduate student at **Delhi Technological University (DTU)**
+* Interested in backend engineering, system design, and performance optimization
+* Focused on writing clean, maintainable, and well tested code
+* Open to collaborating on open source and impactful product projects
+* Continuously improving development workflows and tooling
+* Outside of tech, I enjoy gaming and watching anime
+* 📫 Reach me at **[johri2004.sj@gmail.com](mailto:johri2004.sj@gmail.com)**
 
 ---
 
-## Languages & Technologies
+## 🚀 Languages & Technologies
 
-**Programming Languages:**  
-Python, Java, JavaScript, C, C++
+### 🧠 Programming Languages
 
-**Frontend Technologies:**  
-React, HTML5, CSS3, Tailwind CSS, Bootstrap
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" />
+</p>
 
-**Backend & Frameworks:**  
-Spring, Django
+### 🎨 Frontend Technologies
 
-**Databases & Cloud:**  
-Firebase, BigQuery
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
+</p>
 
-**AI / ML & Data:**  
-TensorFlow, Pandas, OpenCV
+### ⚙️ Backend & Frameworks
 
-**Developer Tools & Platforms:**  
-Git, LaTeX
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" height="40" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" />
+</p>
 
-**AI Platforms:**  
-OpenAI (ChatGPT), Anthropic (Claude)
+### 🗄️ Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" />
+</p>
+
+### 🤖 AI / ML & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
+</p>
+
+### 🛠 Developer Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" />
+</p>
+
+### 🧠 AI Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=openai" height="40" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
+<p>
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="40" />
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="mailto:johri2004.sj@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
