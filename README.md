@@ -54,7 +54,7 @@ Undergraduate at **Delhi Technological University (DTU)** interested in **Algori
 ## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shauryasjohri&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -62,23 +62,25 @@ Undergraduate at **Delhi Technological University (DTU)** interested in **Algori
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/">
-<img src="www.linkedin.com/in/shaurya-s-johri1" height="40"/>
+
+<a href="https://www.linkedin.com/in/shaurya-s-johri1" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://leetcode.com/u/user0513IT/" height="40"/>
+<a href="https://leetcode.com/u/user0513IT/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
 </a>
 
-<a href="https://auth.geeksforgeeks.org/">
-<img src="https://www.geeksforgeeks.org/profile/johri2gksb" height="40"/>
+<a href="https://www.geeksforgeeks.org/profile/johri2gksb/" target="_blank">
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="40"/>
 </a>
 
-<a href="https://www.instagram.com/">
+<a href="https://www.instagram.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 
 <a href="mailto:johri2004.sj@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
+
 </p>
