@@ -1,17 +1,17 @@
 # Hi, I'm Shaurya S. Johri 👋
 
-Undergraduate at **Delhi Technological University (DTU)** who enjoys solving problems using **Data Structures and Algorithms** and building **scalable full-stack applications** with clean architecture and maintainable code.
+Undergraduate at **Delhi Technological University (DTU)** interested in **Algorithms, backend systems, and scalable full stack applications**. I enjoy building clean, maintainable software and solving complex engineering problems.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- I’m currently practicing **DSA** (yes, it's about time)
-- I’m currently learning **Web Development** (once again)
-- All of my projects are available here on **GitHub**
-- Ask me about **Data Structures & Algorithms, Full Stack Development, System Design**
-- Interested in **backend engineering, scalable systems, and performance optimization**
-- Fun fact: I enjoy **gaming and watching anime**
+- Currently sharpening my **problem solving skills through Algorithms**
+- Exploring and building projects in **web development**
+- Most of my work and experiments are available here on **GitHub**
+- Happy to discuss **DSA, full stack development, backend systems, and system design**
+- Interested in **scalable architecture, performance optimization, and clean code**
+- Outside of coding, I enjoy **gaming and watching anime**
 
 📫 Reach me at **johri2004.sj@gmail.com**
 
@@ -54,12 +54,7 @@ Undergraduate at **Delhi Technological University (DTU)** who enjoys solving pro
 ## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165">
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -68,17 +63,21 @@ Undergraduate at **Delhi Technological University (DTU)** who enjoys solving pro
 
 <p>
 <a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="www.linkedin.com/in/shaurya-s-johri1" height="40"/>
 </a>
+
 <a href="https://leetcode.com/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
+<img src="https://leetcode.com/u/user0513IT/" height="40"/>
 </a>
+
 <a href="https://auth.geeksforgeeks.org/">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="40"/>
+<img src="https://www.geeksforgeeks.org/profile/johri2gksb" height="40"/>
 </a>
+
 <a href="https://www.instagram.com/">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
+
 <a href="mailto:johri2004.sj@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
